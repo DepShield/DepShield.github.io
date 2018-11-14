@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.18a8b107.css",
   "main.css.map": "static/css/main.18a8b107.css.map",
-  "main.js": "static/js/main.1f2615a0.js",
-  "main.js.map": "static/js/main.1f2615a0.js.map",
+  "main.js": "static/js/main.25505df4.js",
+  "main.js.map": "static/js/main.25505df4.js.map",
   "static/media/ProximaNova-Bold-webfont.eot": "static/media/ProximaNova-Bold-webfont.4d4031d4.eot",
   "static/media/ProximaNova-Bold-webfont.svg": "static/media/ProximaNova-Bold-webfont.7e40079e.svg",
   "static/media/ProximaNova-Bold-webfont.ttf": "static/media/ProximaNova-Bold-webfont.5a8bc550.ttf",
@@ -27,7 +27,9 @@
   "static/media/circle-continuous-monitoring.png": "static/media/circle-continuous-monitoring.5873fb73.png",
   "static/media/circle-github.png": "static/media/circle-github.94399ee0.png",
   "static/media/logo.png": "static/media/logo.5eed3e39.png",
+  "static/media/screenshot-badge.png": "static/media/screenshot-badge.213a4115.png",
   "static/media/screenshot-issue-list.png": "static/media/screenshot-issue-list.eb769778.png",
-  "static/media/screenshot-issue.png": "static/media/screenshot-issue.7f0bdc00.png",
-  "static/media/screenshot-oss-index.png": "static/media/screenshot-oss-index.d4f5ef13.png"
+  "static/media/screenshot-issue.png": "static/media/screenshot-issue.8b77da77.png",
+  "static/media/screenshot-oss-index.png": "static/media/screenshot-oss-index.d4f5ef13.png",
+  "static/media/screenshot-transitive.png": "static/media/screenshot-transitive.b257b86e.png"
 }
