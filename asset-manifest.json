@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.18a8b107.css",
   "main.css.map": "static/css/main.18a8b107.css.map",
-  "main.js": "static/js/main.69a3df51.js",
-  "main.js.map": "static/js/main.69a3df51.js.map",
+  "main.js": "static/js/main.87246b5b.js",
+  "main.js.map": "static/js/main.87246b5b.js.map",
   "static/media/ProximaNova-Bold-webfont.eot": "static/media/ProximaNova-Bold-webfont.4d4031d4.eot",
   "static/media/ProximaNova-Bold-webfont.svg": "static/media/ProximaNova-Bold-webfont.7e40079e.svg",
   "static/media/ProximaNova-Bold-webfont.ttf": "static/media/ProximaNova-Bold-webfont.5a8bc550.ttf",
@@ -30,5 +30,6 @@
   "static/media/screenshot-issue-list.png": "static/media/screenshot-issue-list.eb769778.png",
   "static/media/screenshot-issue.png": "static/media/screenshot-issue.8b77da77.png",
   "static/media/screenshot-oss-index.png": "static/media/screenshot-oss-index.d4f5ef13.png",
-  "static/media/screenshot-transitive.png": "static/media/screenshot-transitive.b257b86e.png"
+  "static/media/screenshot-transitive.png": "static/media/screenshot-transitive.b257b86e.png",
+  "static/media/sonatype-logo-full.png": "static/media/sonatype-logo-full.e80079e7.png"
 }
